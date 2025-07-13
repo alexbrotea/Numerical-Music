@@ -3,7 +3,7 @@
 ### apply_reverb.m
 This function adds reverb to an audio signal. It makes the sound feel like it was recorded in a big room or concert hall.
 ### create_instruments.m
-This function builds a collection of digital instruments, each with its own sound and behavior. Think of it as a 'library' of instruments you can use in your musical compositions.
+This function builds a collection of digital instruments, each with its own sound and behavior. Think of it as a library of instruments you can use in your musical compositions.
 ### create_sound.m
 This one actually generates sound based on a given musical pattern. It’s one of the core parts of the project: combining instruments, durations, and pitches to make melodies.
 ### low_pass.m
